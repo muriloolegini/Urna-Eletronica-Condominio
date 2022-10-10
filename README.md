@@ -1,4 +1,4 @@
-<h1 align="center">Urna eletrônica</h1>
+<h1 align="center">Urna Eletrônica - Condomínio</h1>
 
 ### Urna eletrônica simples para votação de condomínio usando Blockchain e Smart Contracts na rede Ethereum.
 
